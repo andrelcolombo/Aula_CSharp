@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\bin\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.exe
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\bin\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.deps.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\bin\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.runtimeconfig.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\bin\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\bin\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.AssemblyInfo.cs
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap01.SintaxeBase.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\Fundamentos.CSharp.Cap01.SintaxeBase.genruntimeconfig.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap01.SintaxeBase\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap01.SintaxeBase.dll
