@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.exe
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.deps.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.runtimeconfig.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.AssemblyInfo.cs
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.sourcelink.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap02.Repeticao.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.CSharp.Cap02.Repeticao.genruntimeconfig.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap02.Repeticao\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap02.Repeticao.dll
