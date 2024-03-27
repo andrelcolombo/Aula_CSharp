@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttDofCsiglh27bs5RHaHtxWzqebqXx1HjsL/uaBSAtnQ69rRN8lrCdkJ9eIffMwnfwG7ehOw38/0GdODx17fhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap02.Repeticao\\Fundamentos.CSharp.Cap02.Repeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
