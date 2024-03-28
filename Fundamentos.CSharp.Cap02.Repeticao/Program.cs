@@ -52,8 +52,9 @@ do // faça algo -> independente da expressão de teste do loop
 
 /*INSTRUÇÕES PARA ESTABELECER OS LOOPS DEFINIDOS - LOOPS FOR*/
 
-/*LOOP FOR*/
+/*LOOP FOR
 
+// 1ª abordagem do loop for
 // podemos chamar esta definição de loop de: "definição direta/
 // tradicional" porque tudo aquilo que o loop precisa para seu pleno
 // funcionamento já esta declarado em sua definição
@@ -65,3 +66,78 @@ for (int a = 1, b = 1; a < 300 || b < 300; a *= 3, b *=2)
     Console.WriteLine("valores da var 'b': " + b);
     Console.WriteLine(new string('-', 50));
 }
+
+*/
+
+/*2ª abordagem: comando break
+
+for (int a = 1; a <= 1000; a++)
+{
+    // para uso da expressão/comando break - dentro do loop - é necessario estabelecer uma verificação de valor da var iterado/auxiliar
+    if (a > 20) 
+    {
+        break;
+    }
+
+    Console.WriteLine("Valor de 'a': " + a);
+}
+*/
+
+
+/*3ª abordagem: comando continue
+
+for (int i = 1; i <= 20; i++)
+{
+    if (i > 3 && i < 5 )
+    {
+        continue;
+    }
+
+    Console.WriteLine("Valor da var 'i': " + i);
+}
+*/
+
+/*4ª abordagem: loop de alfabeto
+
+for (char l = 'a'; l <= 'z'; l++)
+{
+    Console.Write(l + " ");
+}
+
+Console.WriteLine();
+Console.WriteLine(new string('-', 50));
+
+for (char l = 'z'; l >= 'a'; l--)
+{
+    Console.Write(l + " ");
+}
+Console.WriteLine();*/
+
+
+/*LOOP FOREACH*/
+
+// definição do loop foreach - iterar sobre os valores de um determinado conjunto de dados... desde que este consuto de dados/valores exista.
+
+// criar um conjunto de valores de mesmo tipo - data type
+string[] listaPaises = {"Alemanha", "Argentina", "Brasil", "França", "Gana", "Uruguai" };
+
+
+//definir o loop forech para iterar/percorrer o conjunto de dados (array listaPaises)
+foreach (string pais in listaPaises) 
+{    
+
+    if (pais.StartsWith("A"))
+    {
+        Console.WriteLine(pais.ToUpper());
+    }
+
+    Console.WriteLine(new string('-', 50));
+
+    if (pais.Contains("n")) 
+    {
+        Console.WriteLine(pais.ToUpper());
+    }
+
+
+}
+

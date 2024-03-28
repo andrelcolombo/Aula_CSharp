@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.exe
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.deps.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.runtimeconfig.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfo.cs
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.sourcelink.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.genruntimeconfig.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap03.POO.dll
