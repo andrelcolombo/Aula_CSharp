@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\outroelemstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:outroelemstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\testeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:testeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,19 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OutroElemStatic.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\OutroElemStatic.cs",
+              "RelativeDocumentMoniker": "OutroElemStatic.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\OutroElemStatic.cs",
+              "RelativeToolTip": "OutroElemStatic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:37:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Automovel.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Automovel.cs",
               "RelativeDocumentMoniker": "Automovel.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Automovel.cs",
               "RelativeToolTip": "Automovel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBkAAAAJAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T23:29:49.152Z",
+              "WhenOpened": "2024-03-29T00:24:47.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteEnum.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\TesteEnum.cs",
+              "RelativeDocumentMoniker": "TesteEnum.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\TesteEnum.cs",
+              "RelativeToolTip": "TesteEnum.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:01:28.519Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T23:06:43.74Z",
               "EditorCaption": ""

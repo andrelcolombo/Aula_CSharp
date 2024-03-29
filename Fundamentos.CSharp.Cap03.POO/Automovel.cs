@@ -13,7 +13,7 @@ namespace Fundamentos.CSharp.Cap03.POO
         public string? Placa;
         public string? Cor;
         public short Ano;
-      */
+      
 
         public string? Fabricante;
 
@@ -24,8 +24,22 @@ namespace Fundamentos.CSharp.Cap03.POO
             get { return _modelo; }
             set { _modelo = value; }
         }
+        */
 
+        private static string? _fabricante;
         
+        public static string Fabricante 
+        {
+            get { return _fabricante; }
+            set { _fabricante = value; }
+        }
 
+        private static string? _modelo;
+
+        public static string Modelo
+        {
+            get { return _modelo; }
+            set { _modelo = value; }
+        }
     }
 }
