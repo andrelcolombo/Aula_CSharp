@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\outroelemstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\testeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:testeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|c:\\users\\andre\\desktop\\impacta\\c#\\fundamentos.csharp.cap03.poo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A76973A6-3AFC-4BD9-A1C5-2E27015C7488}|Fundamentos.CSharp.Cap03.POO.csproj|solutionrelative:automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:06:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OutroElemStatic.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\OutroElemStatic.cs",
               "RelativeDocumentMoniker": "OutroElemStatic.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Automovel.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Automovel.cs",
               "RelativeDocumentMoniker": "Automovel.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TesteEnum.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\TesteEnum.cs",
               "RelativeDocumentMoniker": "TesteEnum.cs",
@@ -64,18 +81,17 @@
               "RelativeToolTip": "TesteEnum.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T00:01:28.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T00:01:28.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Cap03.POO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAAAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T23:06:43.74Z",
               "EditorCaption": ""

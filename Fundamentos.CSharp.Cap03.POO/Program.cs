@@ -1,4 +1,5 @@
 ﻿using Fundamentos.CSharp.Cap03.POO;
+using System.Data;
 
 //Automovel carro = new Automovel();
 
@@ -43,4 +44,60 @@
 //Console.WriteLine("Modelo: " + Automovel.Modelo);
 
 
-Console.WriteLine(OutroElemStatic.Multiplicar(12, 5));
+//Console.WriteLine(OutroElemStatic.Multiplicar(12, 5));
+
+
+//var objAnonimo = new
+//{
+//    Descricao = "Este é um valor de uma prop de um objeto anonimo",
+//    DataCriacao = DateTime.Now
+//};
+
+//Console.WriteLine("Descrição do objeto: " + objAnonimo.Descricao);
+//Console.WriteLine("DataSetDateTime da Criação: " + objAnonimo.DataCriacao);
+
+//Endereco endResidencial = new Endereco();
+
+
+//endResidencial.Rua = "Rua da CAsinha 01";
+//endResidencial.Bairro = "Parque das Flores";
+//endResidencial.Cidade = "Vale Paraiso";
+//endResidencial.UF = "São Paulo";
+//endResidencial.CEP = "03169-060";
+
+//Console.WriteLine(endResidencial.ExibirEndereco());
+
+//struct Endereco 
+//{
+//    public string? Rua { get; set; }
+//    public string? Bairro { get; set; }
+//    public string? Cidade { get; set; }
+//    public string? UF { get; set; }
+//    public string? CEP { get; set; }
+
+//    public string ExibirEndereco() 
+//    {
+//        return $"Rua: {Rua} \n Bairro: {Bairro} \n Cidade: {Cidade} \n UF: {UF} \n CEP {CEP}";
+//    }
+
+//}
+
+
+Pessoa genteBoa = new Pessoa();
+
+
+genteBoa.Nome = "Bob Esponja";
+genteBoa.Idade = 18;
+
+
+Console.WriteLine(genteBoa.ExibirDados());
+
+Console.WriteLine(new string('-', 50));
+
+Console.WriteLine(genteBoa.ExibirDados("Hamburgue de siri"));
+
+Console.WriteLine(new string('-', 50));
+
+Console.WriteLine(genteBoa.ExibirDados("Hamburgue de siri", "2"));
+
+Console.WriteLine(new string('-', 50));
