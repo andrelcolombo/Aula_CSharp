@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fundamentos.CSharp.Cap03.POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc78de62da5cf2513b87bf88ed3a393248f7f241")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+377d5c036aa5f446907b4b6acbb788edbacf223f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fundamentos.CSharp.Cap03.POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fundamentos.CSharp.Cap03.POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
