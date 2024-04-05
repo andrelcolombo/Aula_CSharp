@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZODP7Nyoh6d6T7rHUR2JNNpZGoZPkF+sZyeI8MrZdc5cHc+A8FFcciYydQoBol+AKG3v0DsvD5PXhUHZQezgwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Impacta\\C#\\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
