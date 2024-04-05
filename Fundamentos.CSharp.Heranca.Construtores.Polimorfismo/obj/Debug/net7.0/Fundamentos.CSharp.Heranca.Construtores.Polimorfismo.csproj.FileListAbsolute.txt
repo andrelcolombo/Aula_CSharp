@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\bin\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.exe
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\bin\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.deps.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\bin\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.runtimeconfig.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\bin\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\bin\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.AssemblyInfo.cs
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.sourcelink.json
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\refint\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.dll
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.pdb
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.genruntimeconfig.cache
+C:\Users\andre\Desktop\Impacta\C#\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo\obj\Debug\net7.0\ref\Fundamentos.CSharp.Heranca.Construtores.Polimorfismo.dll
